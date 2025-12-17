@@ -33,18 +33,8 @@ A data-driven Power BI case study uncovering customer segments, key sales driver
 End-to-end data pipeline automating data ingestion, transformation, and analytics for actionable insights.
 
 [Read More](https://github.com/Tazzyben76/DP_JobPostings)
-<!--
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
--->
-
-
-## CONTACT DETAILS
+### CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
 <table>
