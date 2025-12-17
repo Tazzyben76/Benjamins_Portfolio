@@ -28,11 +28,11 @@ A data-driven Power BI case study uncovering customer segments, key sales driver
 
 **Data Pipeline - Automating data ingestion, transformation, and analytics for job postings.**
 <br>
-<img src="https://github.com/Tazzyben76/DA_ShopeeBrazil/blob/main/images/Dashboard.jpg" width="30%" align="left" />
+<img src="TBU" width="30%" align="left" />
 <br clear="all">
-A data-driven Power BI case study uncovering customer segments, key sales drivers, and actionable growth opportunities.
+End-to-end data pipeline automating data ingestion, transformation, and analytics for actionable insights.
 
-[Read More](https://github.com/Tazzyben76/DA_ShopeeBrazil)
+[Read More](https://github.com/Tazzyben76/DP_JobPostings)
 <!--
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
