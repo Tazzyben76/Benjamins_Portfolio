@@ -17,22 +17,32 @@ I am a data specialist with a strong engineering mindset, backed by over 20 year
 
 *A quick glance on some of the projects I've worked on.*
 
-**Power BI Data Analysis - Shopee Brazil Business Analysis**
+---
+
+**Power BI Data Analysis - Shopee Brazil Business Analysis**  
+
+A data-driven Power BI case study uncovering customer segments, key sales drivers, and actionable growth opportunities.  
+
 <br>
-<img src="images/Dashboard-Shopee.jpg" width="30%" align="left" />
+<img src="images/Dashboard-Shopee.jpg" width="50%" align="left" />
 <br clear="all">
-A data-driven Power BI case study uncovering customer segments, key sales drivers, and actionable growth opportunities.
 
 [Read More](https://github.com/Tazzyben76/DA_ShopeeBrazil)
 
 
+***
+
 **Data Pipeline - Automating data ingestion, transformation, and analytics for job postings.**
-<br>
-<img src="images/WordCloud.jpg" width="30%" align="left" />
-<br clear="all">
+
 End-to-end data pipeline automating data ingestion, transformation, and analytics for actionable insights.
 
+<br>
+<img src="images/WordCloud.jpg" width="50%" align="left" />
+<br clear="all">
+
 [Read More](https://github.com/Tazzyben76/DP_JobPostings)
+
+---
 
 ### CONTACT DETAILS
 
