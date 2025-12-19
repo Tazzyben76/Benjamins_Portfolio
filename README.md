@@ -34,7 +34,8 @@ A data-driven Power BI case study uncovering customer segments, key sales driver
 
 **Data Pipeline - Automating data ingestion, transformation, and analytics for job postings.**
 
-End-to-end data pipeline automating data ingestion, transformation, and analytics for actionable insights.
+End-to-end data pipeline automating data ingestion, transformation, and analytics for actionable insights.  
+This was an interim project of which we had 2 weeks to complete. There are still other considerations I have for the project and will be a work in progress. 
 
 <br>
 <img src="images/WordCloud.jpg" width="50%" align="left" />
